@@ -30,7 +30,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test:unit": "react-scripts test",
     "test:e2e": "yarn cypress open",
     "eject": "react-scripts eject",
     "format": "prettier --write \"src/**/*.js\""
